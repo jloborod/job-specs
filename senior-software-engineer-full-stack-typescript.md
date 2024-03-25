@@ -10,7 +10,6 @@ TypeScript (backend and f/e)
 React Native
 Azure
 
-
 Hybrid working (2 days in person / week (London)).
  
 The best bit about Red Badger is, of course, the team. We are really proud of our people; we support and learn a lot from each other; we work really hard but have fun doing it. We are a diverse group made up of 22 different nationalities, speaking 17 different languages.
